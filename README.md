@@ -1,4 +1,21 @@
+ Hi 👋, I'm Atul Negi
 
+### Full-Stack Developer | MERN Stack | DSA | AI-Powered Applications
+
+I'm an MCA student and aspiring software developer focused on building scalable,
+real-world web applications and strengthening my problem-solving skills through DSA.
+
+### 🚀 About Me
+
+- 🎓 Pursuing MCA
+- 💻 Working with the MERN Stack
+- 🧠 Practicing Data Structures & Algorithms
+- 🤖 Interested in AI-powered applications
+- 🌱 Currently improving my backend and system design skills
+- 🔨 Building projects that solve real-world problems
+- 🎯 Goal: Become a strong full-stack software developer
+- 
+<img width="1418" height="600" alt="image" src="https://github.com/user-attachments/assets/7d330fe1-9352-48b6-8753-f6195a6a584d" />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atul.negi.264) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:negiatul4321@gamil.com) 
 
